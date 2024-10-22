@@ -32,4 +32,7 @@ const Singleton = (function(){
             return instance //return existance instance
         }
     }
+
+    
 })
+
